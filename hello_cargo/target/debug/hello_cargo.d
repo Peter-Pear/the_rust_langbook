@@ -1,0 +1,1 @@
+/Users/pedropereira/Documents/Dev/Home_Lab/rust/learning_rust/the_rust_langbook/hello_cargo/target/debug/hello_cargo: /Users/pedropereira/Documents/Dev/Home_Lab/rust/learning_rust/the_rust_langbook/hello_cargo/src/main.rs
