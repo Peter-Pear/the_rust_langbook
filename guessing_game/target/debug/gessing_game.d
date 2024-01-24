@@ -1,0 +1,1 @@
+/Users/pedropereira/Documents/Dev/Home_Lab/rust/learning_rust/the_rust_langbook/guessing_game/target/debug/gessing_game: /Users/pedropereira/Documents/Dev/Home_Lab/rust/learning_rust/the_rust_langbook/guessing_game/src/main.rs
